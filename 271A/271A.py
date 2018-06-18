@@ -1,5 +1,4 @@
 inp=input()
-b=str(inp)
 
 def digit_differ(x):
     a=str(x)
